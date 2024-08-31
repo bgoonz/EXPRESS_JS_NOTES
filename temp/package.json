@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "country-data": "^0.0.31",
+    "google-libphonenumber": "^3.2.34",
+    "i18n-iso-countries": "^7.11.1",
+    "libphonenumber-js": "^1.11.1"
+  }
+}
